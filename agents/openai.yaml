@@ -1,0 +1,7 @@
+interface:
+  display_name: "番茄网文工作室"
+  short_description: "番茄女频长篇选题、大纲、写章与审稿"
+  default_prompt: "Use $fanqie-webnovel-studio to plan a Fanqie female-fiction project, create outlines, write chapters, and self-review the prose."
+
+policy:
+  allow_implicit_invocation: true
